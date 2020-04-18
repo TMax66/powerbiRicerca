@@ -51,3 +51,8 @@ p %>%
   geom_line()+ labs(x= "Anno", y="N.Progetti")+
   theme(axis.text=element_text(size=12))+
   scale_x_continuous(breaks = c(min(dataset$Anno):max(dataset$Anno)))
+
+
+####una cazzo di perdita di tempo###
+###figa banana###
+
